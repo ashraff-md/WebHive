@@ -12,3 +12,7 @@ Day 1 - Software installation
         - PHP Intelephense (Ben Mewburn)
         - Prettier - Code Formatter (Prattier)
     4. XAMPP
+
+Day 2 - Bootstrap
+    Designing Signup and Login form using Bootsrap with AI
+    Using Favicon.com to create the icons
