@@ -1,4 +1,4 @@
-# ai-day1
+# WebHive
 Ai Enhanced Web Development
 
 Day 1 - Software installation
