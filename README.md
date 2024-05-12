@@ -11,6 +11,7 @@ Day 1 - Software installation
         - IntelliPHP (devsense)
         - PHP Intelephense (Ben Mewburn)
         - Prettier - Code Formatter (Prattier)
+        - Draw.io (Henning Dieterichs)
     4. XAMPP
 
 Day 2 - Bootstrap
