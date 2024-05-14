@@ -17,3 +17,8 @@ Day 1 - Software installation
 Day 2 - Bootstrap
     Designing Signup and Login form using Bootsrap with AI
     Using Favicon.com to create the icons
+
+
+Daay 3 - Index page, Database
+    - Designing the Index page using AI
+    - Connnecting the Signup page with MySql Database
